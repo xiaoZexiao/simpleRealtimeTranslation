@@ -1,21 +1,23 @@
 一种比较低端的网课实时翻译解决方案
 ===
-`这个方法不是很稳定，有点时候和zoom一起用比较卡，这取决于你的电脑性能，如果你想在考试的时候使用，建议提前长时间测试`  
+`这个方法不是很稳定，有点时候和zoom一起用比较卡，这取决于你的电脑性能，如果你想在考试的时候使用，建议提前长时间测试`
 
 基于voicemeeter和谷歌翻译，具体设置根据如下步骤进行：
 
 1. 在如下网址下载安装包
 ---
-https://vb-audio.com/Voicemeeter/  
+https://vb-audio.com/Voicemeeter/
 
 你也可也github文件夹里下载安装包
+
 https://github.com/xiaoZexiao/simpleRealtimeTranslation/blob/main/VoicemeeterSetup_v1078.zip
- 
+
 ![](https://github.com/xiaoZexiao/simpleRealtimeTranslation/blob/main/figure/fig1.png)
 
 2. 安装
 ---
-双击VoicemeeterSetup.exe  
+双击VoicemeeterSetup.exe
+
 点击install
 
 ![](https://github.com/xiaoZexiao/simpleRealtimeTranslation/blob/main/figure/fig2.1.png)
@@ -55,11 +57,13 @@ Voicemeeter
 
 6. 测试1
 ---
-现在借助这个软件和谷歌翻译，已经可以实现对任何视频进行实时翻译了  
-比如，找一个YouTube视频，打开谷歌翻译  
+现在借助这个软件和谷歌翻译，已经可以实现对任何视频进行实时翻译了
+
+比如，找一个YouTube视频，打开谷歌翻译
+
 https://translate.google.cn/?sl=en&tl=zh-CN&op=translate
 
-![](https://github.com/xiaoZexiao/simpleRealtimeTranslation/blob/main/figure/fig6.png)
+![](https://github.com/xiaoZexiao/simpleRealtimeTranslation/blob/main/figure/fig6.PNG)
 
 效果不错 ;-)
 
